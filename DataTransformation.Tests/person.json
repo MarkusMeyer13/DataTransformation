@@ -1,0 +1,8 @@
+{
+  "Person": {
+    "FirstName": "Anna",
+    "LastName": "Smith",
+    "Gender": "female",
+    "Age": 42
+  }
+}

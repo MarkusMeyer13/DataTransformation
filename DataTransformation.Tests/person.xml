@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<person gender="female">
+  <firstname>Anna</firstname>
+  <lastname>Smith</lastname>
+  <age>42</age>
+</person>
