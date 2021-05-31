@@ -1,4 +1,5 @@
 ﻿using Newtonsoft.Json;
+using System.Collections.Generic;
 using System.Xml.Serialization;
 
 namespace DataTransformation.Funtion.Models
@@ -45,5 +46,14 @@ namespace DataTransformation.Funtion.Models
         /// </value>
         [XmlElement("age")]
         public int Age { get; set; }
+
+        /// <summary>
+        /// Gets or sets the children.
+        /// </summary>
+        /// <value>
+        /// The children.
+        /// </value>
+        [XmlElement("children")]
+        public List<Child> Children { get; set; }
     }
 }
