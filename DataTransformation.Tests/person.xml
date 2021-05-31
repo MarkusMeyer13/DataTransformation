@@ -3,4 +3,7 @@
   <firstname>Anna</firstname>
   <lastname>Smith</lastname>
   <age>42</age>
+  <children>
+    <name>John</name>
+  </children>
 </person>

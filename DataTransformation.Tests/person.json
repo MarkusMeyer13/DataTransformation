@@ -3,6 +3,11 @@
     "FirstName": "Anna",
     "LastName": "Smith",
     "Gender": "female",
-    "Age": 42
+    "Age": 42,
+    "Children": [
+      {
+          "Name": "John"
+      }
+    ]
   }
 }
